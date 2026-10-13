@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "sprswp",
+  "version": "1.0.0",
+  "name": "Spear Swap",
+  "description": "makes spear dashing easier",
+  "authors": ["wysss"],
+  "license": "ARR",
+  "icon": "assets/sprswp/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.sprswp.SprSwp"],
+    "modmenu": ["dev.sprswp.ModmenuIntgr"]
+  },
+  "mixins": ["sprswp.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-key-binding-api-v1": "*",
+    "fabric-lifecycle-events-v1": "*",
+    "fabric-networking-api-v1": "*",
+    "cloth-config": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

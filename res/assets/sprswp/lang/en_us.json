@@ -1,0 +1,19 @@
+{
+  "key.sprswp.go": "Activate Key",
+  "key.category.sprswp.main": "Spear Swap",
+  "sprswp.ttl": "Spear Swap Settings",
+  "sprswp.ky.tip": "the key that does the swap n lunge, same 1 as in controls",
+  "sprswp.gnrl": "General",
+  "sprswp.on": "Mod On",
+  "sprswp.on.tip": "turns the hole mod on or off",
+  "sprswp.totm": "Work With Totem",
+  "sprswp.totm.tip": "totem slot counts as ur hand slot n gets picked b4 a empty slot so u dont need a free slot",
+  "sprswp.hnddly": "Hand Swap Delay",
+  "sprswp.hnddly.tip": "ticks after key press b4 it swaps to ur hand slot (skiped if ur alredy on 1)",
+  "sprswp.swpdly": "Spear + Attack Delay",
+  "sprswp.swpdly.tip": "ticks after hand swap b4 it swaps to lunge spear n attacks (random between the 2 bars), it also waits till ur hand is fully charged or the spear wont hit",
+  "sprswp.bckdly": "Swap Back Delay",
+  "sprswp.bckdly.tip": "ticks after the attack b4 it swaps back to ur start slot (random between the 2 bars)",
+  "sprswp.mn": "Min: %st",
+  "sprswp.mx": "Max: %st"
+}
