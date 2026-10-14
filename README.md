@@ -1,3 +1,5 @@
+<p align="center"><img src="res/assets/sprswp/icon.png" width="128"></p>
+
 # spear swap undetectable
 
 this is the spear swap mod without the server check. the normal spear swap stays off until the server answers with the guard plugin. this one does not wait for it, so it works on every server, with or without the guard.
