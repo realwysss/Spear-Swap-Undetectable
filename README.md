@@ -16,4 +16,4 @@ minecraft 1.21.11, fabric loader 0.15 or newer, fabric api and cloth config. mod
 
 the code is in `src`. `res` has the resources from the jar.
 
-all rights reserved, see LICENSE.
+all rights reserved. made by wysss.
